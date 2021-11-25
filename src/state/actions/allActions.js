@@ -52,7 +52,7 @@ export const winnerO = () => {
 
 export const ereseWinner = () => {
   return {
-    type: "inner/erase"
+    type: "winner/erase"
   }
 }
 
